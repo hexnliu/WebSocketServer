@@ -44,7 +44,7 @@ The server accepts secure WebSocket (WSS) connections, broadcasts incoming messa
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/websocket-server.git
+git clone https://github.com/hexnliu/websocket-server.git
 
 cd websocket-server
 ```
